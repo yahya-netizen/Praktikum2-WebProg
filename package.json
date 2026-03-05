@@ -1,0 +1,21 @@
+{
+  "name": "praktikum2-mahasiswa",
+  "version": "1.0.0",
+  "description": "Aplikasi Manajemen Data Mahasiswa dengan PHP ",
+  "main": "index.html",
+  "scripts": {
+    "start": "php -S localhost:8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "php",
+    "api",
+    "mahasiswa",
+    "bootstrap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^13.0.6"
+  }
+}
